@@ -18,8 +18,6 @@
 
 main {
   width: 840px;
-  display: flex;
-  justify-content: left;
   margin: 50px auto; 
 }
 
